@@ -28,3 +28,8 @@ This project cleans the Titanic passenger dataset step by step, so that it is re
 ## Tools Used
 
 Python, Pandas, Jupyter Notebook (VS Code)
+
+## Demo
+
+- [LinkedIn post (demo video)](https://lnkd.in/p/d336r9zq)
+- GitHub: [OIBSIP](https://github.com/malaika-saleem284/OIBSIP)
