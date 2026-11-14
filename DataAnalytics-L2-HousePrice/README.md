@@ -41,5 +41,7 @@ Python, pandas, numpy, matplotlib, seaborn, scikit-learn, Jupyter Notebook
 - `train.csv`: dataset
 
 ## Links
-- Demo video: (add link)
-- LinkedIn post: (add link)
+- Demo video and LinkedIn post: https://lnkd.in/p/dpCQkVCt
+
+## Author
+Malaika Saleem | [LinkedIn](https://www.linkedin.com/in/malaika-saleem-311030428)
